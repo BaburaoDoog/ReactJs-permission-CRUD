@@ -1,0 +1,115 @@
+{
+  "permissions": [
+    {
+      "id": "4daa0825-2f52-474b-bc00-d327dbc62db8",
+      "emailId": "shankar@ayu.health",
+      "tenantName": "AYU!",
+      "permissionType": "CS",
+      "createdOn": "2022-04-22 03:22:20"
+    },
+    {
+      "emailId": "babu",
+      "tenantName": "ayu",
+      "permissionType": "cs",
+      "createdOn": "2022-05-04",
+      "id": "6gQvp9S"
+    },
+    {
+      "emailId": "baburao@ayu.health",
+      "tenantName": "AYU",
+      "permissionType": "CS",
+      "createdOn": "2022-05-05",
+      "id": "WhLcKtI"
+    },
+    {
+      "emailId": "shankar@ayu.health",
+      "tenantName": "AYU",
+      "permissionType": "CS",
+      "createdOn": "2022-05-05",
+      "id": "eY8uI0-"
+    },
+    {
+      "emailId": "baburao@ayu.health",
+      "tenantName": "AYU",
+      "permissionType": "CS",
+      "createdOn": "2022-05-06",
+      "id": "AgYy10E"
+    },
+    {
+      "emailId": "baburao@ayu.health",
+      "tenantName": "ayu",
+      "permissionType": "cs",
+      "createdOn": "2022-05-06",
+      "id": "aA5P75P"
+    },
+    {
+      "emailId": "ce",
+      "tenantName": "ce",
+      "permissionType": "ce",
+      "createdOn": "cw",
+      "id": "SJLNknu"
+    },
+    {
+      "emailId": "wc",
+      "tenantName": "cwd",
+      "permissionType": "cwd",
+      "createdOn": "cwd",
+      "id": "6StXAUA"
+    },
+    {
+      "emailId": "wc",
+      "tenantName": "cwd",
+      "permissionType": "cwd",
+      "createdOn": "cwd",
+      "id": "VU5JTyk"
+    },
+    {
+      "emailId": {
+        "emailId": "baburao"
+      },
+      "tenantName": {
+        "tenantName": "ccccc"
+      },
+      "permissionType": {
+        "permissionType": "ccc"
+      },
+      "createdOn": {
+        "createdOn": "ccccc"
+      },
+      "id": "ok91R8p"
+    },
+    {
+      "emailId": {
+        "emailId": "dcw"
+      },
+      "tenantName": {
+        "tenantName": "vdw"
+      },
+      "permissionType": {
+        "permissionType": "wvd"
+      },
+      "createdOn": {
+        "createdOn": "vwd"
+      },
+      "id": "9u6bdpp"
+    },
+    {
+      "emailId": {
+        "emailId": "cwd"
+      },
+      "tenantName": {
+        "tenantName": "cwd"
+      },
+      "permissionType": {
+        "permissionType": "cwccw"
+      },
+      "createdOn": {
+        "createdOn": "cwd"
+      },
+      "id": "XRFVLO7"
+    },
+    {
+      "id": "aCOEepC"
+    }
+  ]
+}

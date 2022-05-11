@@ -1,0 +1,18 @@
+{
+  "permissions": [
+    {
+      "id": "4daa0825-2f52-474b-bc00-d327dbc62db8",
+      "emailId": "shankar@ayu.health",
+      "tenantName": "AYU",
+      "permissionType": "AYUMITRA",
+      "createdOn": "2022-04-22 03:22:20"
+    },
+    {
+      "id": "13bf2f97-ac99-4fab-ad7f-aae2a99bab30",
+      "emailId": "baburao@ayu.health",
+      "tenantName": "AYU",
+      "permissionType": "CSS",
+      "createdOn": "2022-04-22 03:22:20"
+    }
+  ]
+}
